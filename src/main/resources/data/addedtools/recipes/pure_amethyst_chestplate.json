@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "addedtools:pure_amethyst"
+    }
+  },
+  "result": {
+    "item": "addedtools:pure_amethyst_chestplate"
+  }
+}

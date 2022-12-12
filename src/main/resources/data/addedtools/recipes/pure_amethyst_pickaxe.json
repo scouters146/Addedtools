@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "addedtools:pure_amethyst"
+    }
+  },
+  "result": {
+    "item": "addedtools:pure_amethyst_pickaxe"
+  }
+}
